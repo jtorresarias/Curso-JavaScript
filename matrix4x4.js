@@ -1,3 +1,6 @@
+//Joel Torres Arias.
+//Crear matriz 4*4.
+//Version 3.
 var caracter = "x";
 var fila = " ";
 var columna = " ";
